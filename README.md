@@ -10,3 +10,4 @@ I write a blog (https://thezonemaster.substack.com/), where I focus on NBA Draft
    Blog Post: https://thezonemaster.substack.com/p/projecting-nba-three-point-success
 5) Player Tracking System - Used Computer Vision (OpenCV and DeepSort) on YOLO trained model and Homography to map players.
    Blog Post: https://thezonemaster.substack.com/p/building-a-rudimentary-player-tracking
+6) True Rebounding Rate - Privated for now. It has been updated and was used by professional team - so cannot have it up publicly. Gist of it can be found on my Substack, however.
